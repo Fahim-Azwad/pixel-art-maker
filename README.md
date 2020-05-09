@@ -19,3 +19,6 @@ Become a modern day pixel-Picasso! You can make custom grid and start making coo
 
 ## Contributing
 Fee free add suggestion!
+
+## License
+The contents of this repository is licensed under a [MIT License](https://opensource.org/licenses/MIT)
